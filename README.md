@@ -15,9 +15,10 @@ This repository contains a minimal design token system organized in JSON format.
 
 - **Colors** (`color.tokens.json`) - Neutral palette with black and white
 - **Spacing** (`spacing.tokens.json`) - Base-8 spacing scale (0-192px)
-- **Typography** - Font families, sizes, weights, and line heights
+- **Typography** - Font families, sizes, weights, letter spacing, and line heights
   - `font.tokens.json` - Font families, sizes, and weights
-  - `lineheight.tokens.json` - Line height scale
+  - `letter-spacing.tokens.json` - Letter spacing scale
+  - `line-height.tokens.json` - Line height scale
 - **Borders** (`border.tokens.json`) - Border widths and radius values
 - **Radius** (`radius.tokens.json`) - Border radius scale
 - **Shadows** (`shadow.tokens.json`) - Elevation system for depth
@@ -28,6 +29,7 @@ This repository contains a minimal design token system organized in JSON format.
 - **Z-Index** (`z-index.tokens.json`) - Stacking order for UI layers
 
 ## Project Structure
+
 ```
 .
 ├── design-tokens/
@@ -38,7 +40,8 @@ This repository contains a minimal design token system organized in JSON format.
 │       ├── color.tokens.json
 │       ├── duration.tokens.json
 │       ├── font.tokens.json
-│       ├── lineheight.tokens.json
+│       ├── letter-spacing.tokens.json
+│       ├── line-height.tokens.json
 │       ├── opacity.tokens.json
 │       ├── radius.tokens.json
 │       ├── shadow.tokens.json
@@ -58,6 +61,7 @@ These token files are plain JSON and can be:
 4. **Copied and customized** for your specific brand needs
 
 ### Example Token Structure
+
 ```json
 {
   "spacing": {
