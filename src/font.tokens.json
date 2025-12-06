@@ -1,0 +1,96 @@
+{
+  "font": {
+    "family": {
+      "sans": {
+        "value": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        "type": "fontFamily"
+      },
+      "serif": {
+        "value": "Georgia, Cambria, 'Times New Roman', Times, serif",
+        "type": "fontFamily"
+      },
+      "mono": {
+        "value": "ui-monospace, 'Courier New', monospace",
+        "type": "fontFamily"
+      }
+    },
+    "size": {
+      "xs": {
+        "value": 12,
+        "type": "number"
+      },
+      "sm": {
+        "value": 14,
+        "type": "number"
+      },
+      "base": {
+        "value": 16,
+        "type": "number"
+      },
+      "lg": {
+        "value": 18,
+        "type": "number"
+      },
+      "xl": {
+        "value": 20,
+        "type": "number"
+      },
+      "2xl": {
+        "value": 24,
+        "type": "number"
+      },
+      "3xl": {
+        "value": 30,
+        "type": "number"
+      },
+      "4xl": {
+        "value": 36,
+        "type": "number"
+      },
+      "5xl": {
+        "value": 48,
+        "type": "number"
+      },
+      "6xl": {
+        "value": 64,
+        "type": "number"
+      }
+    },
+    "weight": {
+      "light": {
+        "value": 300,
+        "type": "fontWeight"
+      },
+      "normal": {
+        "value": 400,
+        "type": "fontWeight"
+      },
+      "medium": {
+        "value": 500,
+        "type": "fontWeight"
+      },
+      "semibold": {
+        "value": 600,
+        "type": "fontWeight"
+      },
+      "bold": {
+        "value": 700,
+        "type": "fontWeight"
+      }
+    },
+    "lineHeight": {
+      "tight": {
+        "value": 1.25,
+        "type": "number"
+      },
+      "normal": {
+        "value": 1.5,
+        "type": "number"
+      },
+      "relaxed": {
+        "value": 1.75,
+        "type": "number"
+      }
+    }
+  }
+}

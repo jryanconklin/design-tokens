@@ -1,0 +1,36 @@
+{
+  "animation": {
+    "rotate": {
+      "90": {
+        "value": "90deg",
+        "type": "string"
+      },
+      "180": {
+        "value": "180deg",
+        "type": "string"
+      },
+      "270": {
+        "value": "270deg",
+        "type": "string"
+      },
+      "360": {
+        "value": "360deg",
+        "type": "string"
+      }
+    },
+    "ease": {
+      "in": {
+        "value": "cubic-bezier(0.4, 0, 1, 1)",
+        "type": "string"
+      },
+      "out": {
+        "value": "cubic-bezier(0, 0, 0.2, 1)",
+        "type": "string"
+      },
+      "inOut": {
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "type": "string"
+      }
+    }
+  }
+}
