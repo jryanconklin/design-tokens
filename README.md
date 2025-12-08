@@ -92,9 +92,9 @@ To use these tokens in production:
 
 ## Resources
 
-- [Style Dictionary](https://amzn.github.io/style-dictionary/) - Transform tokens into any platform format
+- [Style Dictionary](https://styledictionary.com/) - Transform tokens into any platform format
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - Token format specifications
-- [Tokens Studio (Figma)](https://tokens.studio/) - Sync tokens with Figma designs
+- [Design Tokens (Figma Plugin)](figma.com/community/plugin/888356646278934516) - Export variables to/from Figma
 
 ## License
 
